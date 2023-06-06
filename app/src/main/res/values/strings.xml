@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bookies</string>
+    <string name="welcome">welcome</string>
+    <string name="Profile">profile</string>
+</resources>
